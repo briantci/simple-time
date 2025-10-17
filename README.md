@@ -1,4 +1,4 @@
-# Simple Time - UE L311 - Semaine 3 
+# Simple Time - GroupeB-S3-L311-2025
 
 ## Introduction
 
