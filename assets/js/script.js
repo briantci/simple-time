@@ -3,6 +3,7 @@ window.addEventListener("DOMContentLoaded", () => {
     let is_run = true;
 
     init();
+    
 
     function init() {
         const button = document.querySelector('.button');
@@ -12,7 +13,7 @@ window.addEventListener("DOMContentLoaded", () => {
             is_run = !is_run;
 
             // 🟢 Simplification : on ajoute ou retire la classe "pause" avec classList
-            button.classList.toggle('pause', !is_run);
+            button.classList.toggle('pause', is_run);
         });
 
         // 🟢 Correction : "setInterval" + syntaxe correcte
