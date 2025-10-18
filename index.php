@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Timetitle>
+  <title>Time</title>
     <link href="https://fonts.googleapis.comm/css?family=Aldrich" rel="stylesheet">
     <link rel="stylesheet" href="asset/css/style.css">
     <script src="assets/js/script.js"></script>
