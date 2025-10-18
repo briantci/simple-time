@@ -1,3 +1,4 @@
+/* General setup */
 html, body{
 margin:0;
 padding: 0;
@@ -7,26 +8,38 @@ height:100%;
 color: #F0F1D5;
 background-color: transparent;
 }
+
+/* This section centers the watch */
 #wrapper{
 display:flex;
 justify-content:center;
 align-items:center;
 height: 100%;
 }
+
+/* Style for the main timer text */
 .inside{
 font-weight: bold;
 font-size: 75px;
 }
+
+/* Add a colon after each timer segment */
 .timer span::after{
 content: " : ";
 }
+
+/* Remove the colon after the last timer segment */
 .timer span:last-child::after{
 content: "";
 }
+
+/* Center-align the button */
 .controls{
 text-align: center;
 }
-.controls button {
+
+/* This section styles the "pause" button */
+.controls button{
 box-sizing: border-box;
 height: 74px;
 background-color: transparent;
@@ -37,6 +50,8 @@ cursor: pointer;
 border-style: solid;
 border-width: 37px 0 37px 60px;
 }
+
+/* This section styles the "play" button */
 .controls button.pause{
 border-style: double;
 border-width: 0px 0 0px 60px;
