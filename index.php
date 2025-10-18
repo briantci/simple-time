@@ -11,7 +11,7 @@
 
 <body>
   <div id="wrapper">
-    <div class="inside" id="wrapper">
+    <div class="inside">
       <div class="timer"><span id="hours">00</span><span id="minutes">00</span><span id="seconds">00</span></div>
       <div class="controls"><button class="button pause"></button></div>
     </div>
