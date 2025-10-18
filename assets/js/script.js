@@ -60,6 +60,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // recapDiv.style.dislay = 'bloc';
         // Démarche : En inspectant avec l’onglet "Éléments", la propriété CSS n’apparaissait pas.
         // CORRECTION : recapDiv.style.display = 'block';
-        recapDiv.style.dislay = 'block';
+        recapDiv.style.display = 'block';
     });
 });
