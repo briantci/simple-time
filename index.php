@@ -6,7 +6,7 @@
   <title>Time</title>
     <link href="https://fonts.googleapis.com/css?family=Aldrich" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
-    <script src="assets/js/script.js"></script>
+    <script defer src="assets/js/script.js"></script>
 </head>
 
 <body>
