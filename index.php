@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>Time</title>
     <link href="https://fonts.googleapis.comm/css?family=Aldrich" rel="stylesheet">
-    <link rel="stylesheet" href="asset/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <script src="assets/js/script.js"></script>
 </head>
 
