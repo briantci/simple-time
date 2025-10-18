@@ -9,7 +9,7 @@ color: #F0F1D5;
 background-color: transparent;
 }
 
-/* This section centers the watch */
+/* This section centers the clock */
 #wrapper{
 display:flex;
 justify-content:center;
